@@ -1,5 +1,3 @@
-به من
-
 # E-Commerce Analytics & Customer Intelligence Platform
 
 ## Overview
